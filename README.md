@@ -1,2 +1,2 @@
 # colouringimages
-Image Colorization Using Conditional GANs
+Image Colourization Using Conditional GANs
